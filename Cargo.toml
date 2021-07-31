@@ -1,5 +1,5 @@
 [package]
-name = "guessing-game-cli"
+name = "rustbook_guessing-game-cli"
 version = "0.1.0"
 edition = "2018"
 
